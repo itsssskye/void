@@ -23,10 +23,18 @@ fn main() {
 
     // Markdown text content
     let text_content = r#"
-# My VTF Document
+# Introduction
 
-Hello, **world**!
-This is *italic* text.
+Welcome to **Void Text Format**.[1]
+
+- Item A
+- Item B
+
+# Details
+
+Go back to [Introduction](#introduction)
+
+[1]: This is a footnote example.
 "#;
 
     // Metadata
