@@ -1,0 +1,10 @@
+VTFFORMAT 1.0
+TEXT_START
+Hello, .vtf world! This is Skye's format.
+TEXT_END
+META_START
+{
+  "title": "My First VTF",
+  "author": "Skye"
+}
+META_END
