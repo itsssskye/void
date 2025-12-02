@@ -12,15 +12,30 @@ struct Metadata {
 fn main() {
     let filename = "example.vtf";
 
-    let text_content = "Hello, .vtf world! This is Skye's format.";
+    // Markdown text content
+    let text_content = r#"
+# My VTF Document
 
+Hello, **world**!
+This is *italic* text.
+
+- Item 1
+- Item 2
+
+[button:Click me]
+[checkbox:Do task?][ ]
+[spoiler]This is hidden[/spoiler]
+"#;
+
+    // Metadata
     let metadata = Metadata {
-        title: "My First VTF".to_string(),
+        title: "My First VTF with Markdown".to_string(),
         author: "Skye".to_string(),
     };
 
     let metadata_json = to_string_pretty(&metadata).unwrap();
 
+    // Create .vtf file
     let file = File::create(filename).expect("Failed to create file");
     let mut writer = BufWriter::new(file);
 
