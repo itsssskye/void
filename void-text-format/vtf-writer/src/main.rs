@@ -3,11 +3,15 @@ use std::io::{Write, BufWriter, Read};
 use serde::{Serialize, Deserialize};
 use serde_json::to_string_pretty;
 use base64::{engine::general_purpose, Engine as _};
+use chrono::prelude::*;
 
 #[derive(Serialize, Deserialize)]
 struct Metadata {
     title: String,
     author: String,
+    created_at: String,
+    word_count: usize,
+    char_count: usize,
 }
 
 // Function to read a file and convert it to Base64
@@ -37,10 +41,18 @@ Go back to [Introduction](#introduction)
 [1]: This is a footnote example.
 "#;
 
+    // Count works and characters
+    let word_count = text_content.split_whitespace().count();
+    let char_count = text_content.chars().count();
+    let created_at = chrono::Utc::now().to_rfc3339();
+
     // Metadata
     let metadata = Metadata {
         title: "My First VTF with Markdown + Embedded File".to_string(),
         author: "Skye".to_string(),
+        created_at,
+        word_count,
+        char_count,
     };
     let metadata_json = to_string_pretty(&metadata).unwrap();
 
