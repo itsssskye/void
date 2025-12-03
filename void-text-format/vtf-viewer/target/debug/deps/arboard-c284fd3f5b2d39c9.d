@@ -1,0 +1,10 @@
+/Users/namnguyenimac/Downloads/folders/github/void/void-text-format/vtf-viewer/target/debug/deps/libarboard-c284fd3f5b2d39c9.rmeta: /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/lib.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/common.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/mod.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/osx.rs
+
+/Users/namnguyenimac/Downloads/folders/github/void/void-text-format/vtf-viewer/target/debug/deps/libarboard-c284fd3f5b2d39c9.rlib: /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/lib.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/common.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/mod.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/osx.rs
+
+/Users/namnguyenimac/Downloads/folders/github/void/void-text-format/vtf-viewer/target/debug/deps/arboard-c284fd3f5b2d39c9.d: /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/lib.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/common.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/mod.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/osx.rs
+
+/Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/lib.rs:
+/Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/common.rs:
+/Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/mod.rs:
+/Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.1/src/platform/osx.rs:

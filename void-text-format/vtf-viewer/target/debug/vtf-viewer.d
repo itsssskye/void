@@ -1,0 +1,1 @@
+/Users/namnguyenimac/Downloads/folders/github/void/void-text-format/vtf-viewer/target/debug/vtf-viewer: /Users/namnguyenimac/Downloads/folders/github/void/void-text-format/vtf-viewer/src/main.rs /Users/namnguyenimac/Downloads/folders/github/void/void-text-format/vtf-viewer/src/vtf_parser.rs

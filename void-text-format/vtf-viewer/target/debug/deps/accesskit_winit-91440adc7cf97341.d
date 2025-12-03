@@ -1,0 +1,9 @@
+/Users/namnguyenimac/Downloads/folders/github/void/void-text-format/vtf-viewer/target/debug/deps/libaccesskit_winit-91440adc7cf97341.rmeta: /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/lib.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/mod.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/macos.rs
+
+/Users/namnguyenimac/Downloads/folders/github/void/void-text-format/vtf-viewer/target/debug/deps/libaccesskit_winit-91440adc7cf97341.rlib: /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/lib.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/mod.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/macos.rs
+
+/Users/namnguyenimac/Downloads/folders/github/void/void-text-format/vtf-viewer/target/debug/deps/accesskit_winit-91440adc7cf97341.d: /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/lib.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/mod.rs /Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/macos.rs
+
+/Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/lib.rs:
+/Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/mod.rs:
+/Users/namnguyenimac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_winit-0.22.4/src/platform_impl/macos.rs:
